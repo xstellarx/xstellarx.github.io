@@ -1,1 +1,24 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="XstellarX"
+ORG_DBA="Stellar Tokens Portal"
+ORG_URL="https://xstellarx.github.io"
+ORG_LOGO="https://xstellarx.github.io/assets/logo.jpg"
+ORG_DESCRIPTION="A portal to discover, verify, and explore tokens built on the Stellar blockchain"
+ORG_PHYSICAL_ADDRESS="350 5th Ave, New York, NY 10118, United States"
+ORG_OFFICIAL_EMAIL="invest.tokens@gmail.com"
+ORG_PHONE_NUMBER="1-866-418-0232"
+ORG_GITHUB="xstellarx"
+
+[[CURRENCIES]]
+code="HOLD"
+issuer="GACGFUZYOW4DSA7JAWHIIUTNAFAK3ENDQGLKZX4LFGBWP7CVNOWYHOLD"
+display_decimals=2
+name="HOLD"
+desc="HOLD is a utility token issued by Stellar Tokens Portal, designed to promote long-term engagement and stability within the Stellar ecosystem. By incentivizing users to retain tokens over time, HOLD supports network health, user loyalty, and transparent participation. HOLD represents in the Stellar Tokens Portal ecosystem. It’s a symbolic asset that unites supporters of transparent, decentralized token discovery—and may be used in future airdrops, polls, or platform integrations."
+conditions="There will only ever be 1 Billion HOLD tokens in existence"
+image="https://xstellarx.github.io/assets/HOLD.png"
+fixed_number=1000000000
+
+# 🛡️ Warning: Tokens with the same asset code (HOLD) may be issued by other accounts. Only the official issuer listed above is legitimate. 
