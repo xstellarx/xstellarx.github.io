@@ -14,3 +14,11 @@ This site hosts curated information about Stellar-based tokens (assets), includi
 
 All content is statically hosted via GitHub Pages at:  
 👉 **https://xstellarx.github.io**
+
+## 🚀 Purpose
+
+- Provide transparent, up-to-date information on Stellar ecosystem tokens  
+- Help users verify legitimate assets and avoid scams  
+- Support developers building on the Stellar network
+
+*Not affiliated with Stellar Development Foundation. Use at your own risk.*
