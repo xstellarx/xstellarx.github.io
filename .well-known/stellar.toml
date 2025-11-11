@@ -6,9 +6,7 @@ ORG_DBA="Stellar Tokens Portal"
 ORG_URL="https://xstellarx.github.io"
 ORG_LOGO="https://xstellarx.github.io/assets/logo.jpg"
 ORG_DESCRIPTION="A portal to discover, verify, and explore tokens built on the Stellar blockchain"
-ORG_PHYSICAL_ADDRESS="350 5th Ave, New York, NY 10118, United States"
 ORG_OFFICIAL_EMAIL="invest.tokens@gmail.com"
-ORG_PHONE_NUMBER="1-212-444-2241"
 ORG_GITHUB="xstellarx"
 
 [[CURRENCIES]]
