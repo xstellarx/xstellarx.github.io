@@ -12,7 +12,7 @@ ORG_GITHUB="xstellarx"
 [[CURRENCIES]]
 code="HOLD"
 issuer="GACGFUZYOW4DSA7JAWHIIUTNAFAK3ENDQGLKZX4LFGBWP7CVNOWYHOLD"
-display_decimals=2
+display_decimals=6
 name="HOLD"
 desc="HOLD is a utility token issued by Stellar Tokens Portal, designed to promote long-term engagement and stability within the Stellar ecosystem. By incentivizing users to retain tokens over time, HOLD supports network health, user loyalty, and transparent participation. HOLD represents in the Stellar Tokens Portal ecosystem. It’s a symbolic asset that unites supporters of transparent, decentralized token discovery—and may be used in future airdrops, polls, or platform integrations."
 conditions="There will only ever be 1 Billion HOLD tokens in existence"
